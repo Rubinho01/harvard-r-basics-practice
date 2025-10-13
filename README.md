@@ -9,15 +9,15 @@ Estou praticando e recriando exercícios da primeira sessão do curso — explor
 # 📁 **Estrutura do repositório:**
 
 > harvard-r-basics-practice/
-│
-├── README.md <- este arquivo
-├── sessao1 <- exercícios da primeira sessão
-  └── enunciados.R
-  └── 01.R
-  └── 02.R
-  └── 03.R
-  └── 04.R
-  └── 05.R
+-│
+-├── README.md <- este arquivo
+-├── sessao1 <- exercícios da primeira sessão
+  -└── enunciados.R
+  -└── 01.R
+  -└── 02.R
+  -└── 03.R
+  -└── 04.R
+  -└── 05.R
 
 Em breve trarei mais exercícios correspondentes as outras sessões
 **Fique a vontade para contribuir com mais exercícios<3**
